@@ -1,0 +1,6 @@
+http://www.baidu.com/
+----------
+来源网站（URL）：http://baidu.com
+获取模式：网址（URL）
+获取耗时：0.001秒
+以上为获取结果：
